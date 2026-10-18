@@ -1,4 +1,4 @@
-import{t as e}from"./jsx-runtime-DLNB9Qsn.js";import{c as t}from"./ui-BL4Xtxc5.js";var n=`Pumpernickel – Lizenzen der verwendeten Open-Source-Bausteine und Schriften
+import{t as e}from"./jsx-runtime-DLNB9Qsn.js";import{c as t}from"./ui-B0RcsBqY.js";var n=`Pumpernickel – Lizenzen der verwendeten Open-Source-Bausteine und Schriften
 
 Pumpernickel selbst: © 2026. Alle Rechte vorbehalten.
 

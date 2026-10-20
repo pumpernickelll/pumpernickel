@@ -1,0 +1,1 @@
+function e(e,t,n){let r=[...e];if(!r.length)return r;let i=r.length-1,a=e=>Math.max(0,Math.min(i,e)),[o]=r.splice(a(t),1);return r.splice(a(n),0,o),r}function t(e,t){let n=t.findIndex(t=>e<=t);return n<0?Math.max(0,t.length-1):n}function n(e,t,n){return e===t?n:t<e&&e<=n?e-1:n<=e&&e<t?e+1:e}export{n,e as r,t};

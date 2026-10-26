@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-vKRSicjO.js";import{y as t}from"./index-CiDg-wHf.js";import{BodyExplorer as n}from"./Body-C3uKozFW.js";var r=e();function i(){return(0,r.jsx)(t,{title:`Muskeln · Diese Woche`,className:`muscle-week-page`,children:(0,r.jsx)(n,{week:!0})})}export{i as MuscleWeekPage};

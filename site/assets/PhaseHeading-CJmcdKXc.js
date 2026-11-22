@@ -1,1 +1,0 @@
-import{Ot as e}from"./index-DLh3GByw.js";import{a as t}from"./phases-DczZk964.js";var n=e();function r({items:e,index:r,minutes:i}){return!e.some(e=>e.phase)||r>0&&e[r-1]?.phase===e[r]?.phase?null:(0,n.jsxs)(`h3`,{className:`phase-heading`,children:[t(e[r]?.phase),i!==void 0&&(0,n.jsxs)(`span`,{children:[`~`,i,` min`]})]})}export{r as t};
